@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jadr-agent</string>
+    <string name="action_settings">Settings</string>
+	<string name="accessibility_service_description">jadr-agent accessibility service</string>
+</resources>

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-agent\\jadr-agent.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-agent\\jadr-agent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-agent\\jadr-agent.csproj",
+        "projectName": "jadr-agent",
+        "projectPath": "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-agent\\jadr-agent.csproj",
+        "packagesPath": "C:\\Users\\Torsten Klinger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-agent\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Torsten Klinger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Constraint.Layout": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

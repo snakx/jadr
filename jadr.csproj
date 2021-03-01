@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>jadr.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="jadr-agent\**" />
+    <Compile Remove="jadr-gui\**" />
+    <Compile Remove="jadr-server\**" />
+    <Compile Remove="java-adb-remote-screen\**" />
+    <EmbeddedResource Remove="jadr-agent\**" />
+    <EmbeddedResource Remove="jadr-gui\**" />
+    <EmbeddedResource Remove="jadr-server\**" />
+    <EmbeddedResource Remove="java-adb-remote-screen\**" />
+    <None Remove="jadr-agent\**" />
+    <None Remove="jadr-gui\**" />
+    <None Remove="jadr-server\**" />
+    <None Remove="java-adb-remote-screen\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="jadr.png" />
+  </ItemGroup>
+
+</Project>

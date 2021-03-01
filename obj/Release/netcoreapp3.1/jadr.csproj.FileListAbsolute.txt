@@ -1,0 +1,13 @@
+C:\Users\Torsten Klinger\Desktop\jadr\obj\Release\netcoreapp3.1\jadr.AssemblyInfoInputs.cache
+C:\Users\Torsten Klinger\Desktop\jadr\obj\Release\netcoreapp3.1\jadr.AssemblyInfo.cs
+C:\Users\Torsten Klinger\Desktop\jadr\obj\Release\netcoreapp3.1\jadr.csproj.CoreCompileInputs.cache
+C:\Users\Torsten Klinger\Desktop\jadr\bin\Release\netcoreapp3.1\jadr.exe
+C:\Users\Torsten Klinger\Desktop\jadr\bin\Release\netcoreapp3.1\jadr.deps.json
+C:\Users\Torsten Klinger\Desktop\jadr\bin\Release\netcoreapp3.1\jadr.runtimeconfig.json
+C:\Users\Torsten Klinger\Desktop\jadr\bin\Release\netcoreapp3.1\jadr.runtimeconfig.dev.json
+C:\Users\Torsten Klinger\Desktop\jadr\bin\Release\netcoreapp3.1\jadr.dll
+C:\Users\Torsten Klinger\Desktop\jadr\bin\Release\netcoreapp3.1\jadr.pdb
+C:\Users\Torsten Klinger\Desktop\jadr\obj\Release\netcoreapp3.1\jadr.dll
+C:\Users\Torsten Klinger\Desktop\jadr\obj\Release\netcoreapp3.1\jadr.pdb
+C:\Users\Torsten Klinger\Desktop\jadr\obj\Release\netcoreapp3.1\jadr.genruntimeconfig.cache
+C:\Users\Torsten Klinger\Desktop\jadr\obj\Release\netcoreapp3.1\jadr.csprojAssemblyReference.cache
