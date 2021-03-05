@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-server\\jadr-server.csproj": {}
+    "C:\\Users\\Torsten Klinger\\Desktop\\snakx\\jadr\\jadr-server\\jadr-server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-server\\jadr-server.csproj": {
+    "C:\\Users\\Torsten Klinger\\Desktop\\snakx\\jadr\\jadr-server\\jadr-server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-server\\jadr-server.csproj",
+        "projectUniqueName": "C:\\Users\\Torsten Klinger\\Desktop\\snakx\\jadr\\jadr-server\\jadr-server.csproj",
         "projectName": "jadr-server",
-        "projectPath": "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-server\\jadr-server.csproj",
+        "projectPath": "C:\\Users\\Torsten Klinger\\Desktop\\snakx\\jadr\\jadr-server\\jadr-server.csproj",
         "packagesPath": "C:\\Users\\Torsten Klinger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-server\\obj\\",
+        "outputPath": "C:\\Users\\Torsten Klinger\\Desktop\\snakx\\jadr\\jadr-server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

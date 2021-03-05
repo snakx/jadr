@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr.csproj",
+      "projectUniqueName": "C:\\Users\\Torsten Klinger\\Desktop\\snakx\\jadr\\jadr.csproj",
       "projectName": "jadr",
-      "projectPath": "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr.csproj",
+      "projectPath": "C:\\Users\\Torsten Klinger\\Desktop\\snakx\\jadr\\jadr.csproj",
       "packagesPath": "C:\\Users\\Torsten Klinger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\obj\\",
+      "outputPath": "C:\\Users\\Torsten Klinger\\Desktop\\snakx\\jadr\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

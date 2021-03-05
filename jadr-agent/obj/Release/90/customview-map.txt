@@ -1,11 +1,11 @@
 accessibility-service;obj\Release\90\res\xml\accessibility_service_config.xml
 android.support.constraint.ConstraintLayout;obj\Release\90\res\layout\activity_main.xml
-cache-path;C:\Users\Torsten Klinger\Desktop\jadr\jadr-agent\obj\Release\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+cache-path;C:\Users\Torsten Klinger\Desktop\snakx\jadr\jadr-agent\obj\Release\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Release\90\res\values\colors.xml
-external-cache-path;C:\Users\Torsten Klinger\Desktop\jadr\jadr-agent\obj\Release\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;C:\Users\Torsten Klinger\Desktop\jadr\jadr-agent\obj\Release\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;C:\Users\Torsten Klinger\Desktop\snakx\jadr\jadr-agent\obj\Release\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\Torsten Klinger\Desktop\snakx\jadr\jadr-agent\obj\Release\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 item;obj\Release\90\res\values\styles.xml
-paths;C:\Users\Torsten Klinger\Desktop\jadr\jadr-agent\obj\Release\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;C:\Users\Torsten Klinger\Desktop\snakx\jadr\jadr-agent\obj\Release\90\lp\37\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;obj\Release\90\res\values\colors.xml
 resources;obj\Release\90\res\values\strings.xml
 resources;obj\Release\90\res\values\styles.xml

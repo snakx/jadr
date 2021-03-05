@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W8bqktjPNNzHIMsQXcKhv8u/Z4rcBTdEXYYXyEYl3pa6QCWcf6BOvPSoEHzLsR6uuPEzZKNoQ3P9+vAIdXgHDw==",
+  "dgSpecHash": "YYFAiQhhbpvXUpU5SQbiKuaW1rN4nL1Gag/jB6gWyCu4rw8rRXKzPJza7wQZvmVmc2EUpeOrltYLJVY5V17I3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-agent\\jadr-agent.csproj",
+  "projectFilePath": "C:\\Users\\Torsten Klinger\\Desktop\\snakx\\jadr\\jadr-agent\\jadr-agent.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",

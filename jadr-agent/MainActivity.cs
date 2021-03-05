@@ -61,7 +61,7 @@ namespace jadr_agent
                         "\"Movement Granularity\":\"" + e.MovementGranularity + "\"," +
                         "\"Scroll X\":\"" + e.ScrollX + "\"," +
                         "\"Scroll Y\":\"" + e.ScrollY + "\"," +
-                        "\"Text\":\"" + e.Text + "\"," +
+                        "\"Text\":\"" + string.Join(",", e.Text) + "\"," +
                         "\"Enabled\":\"" + e.Enabled + "\"," +
                         "\"Checked\":\"" + e.Checked + "\"," +
                         "\"Window ID\":\"" + e.WindowId + "\"}";

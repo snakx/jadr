@@ -1544,11 +1544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-agent\\jadr-agent.csproj",
+      "projectUniqueName": "C:\\Users\\Torsten Klinger\\Desktop\\snakx\\jadr\\jadr-agent\\jadr-agent.csproj",
       "projectName": "jadr-agent",
-      "projectPath": "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-agent\\jadr-agent.csproj",
+      "projectPath": "C:\\Users\\Torsten Klinger\\Desktop\\snakx\\jadr\\jadr-agent\\jadr-agent.csproj",
       "packagesPath": "C:\\Users\\Torsten Klinger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Torsten Klinger\\Desktop\\jadr\\jadr-agent\\obj\\",
+      "outputPath": "C:\\Users\\Torsten Klinger\\Desktop\\snakx\\jadr\\jadr-agent\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
